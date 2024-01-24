@@ -1,4 +1,4 @@
-<!--título-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Brunna Pontual</h1></summary>
@@ -7,7 +7,7 @@
     
 * Alepe - Aug. 2023
 * Currently learning ***Javascript, Recat, AWS***
-  
+
 </div>
  
 <div align="justify"> 
@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+<hr/>
 
 <h2 align="center"></h2>
 <br/>
@@ -28,11 +29,6 @@
 
 <br/>
 <hr/>
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/brunnapontual/brunnapontual/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 
