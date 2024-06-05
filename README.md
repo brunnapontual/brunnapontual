@@ -20,10 +20,9 @@
 </div>
 
 <h2 align="center"></h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" /><br/>
-    <img src="https://skillicons.dev/icons?i=django,react,selenium,bootstrap,figma,github" />
+<div align="inline">
+    <img height="40" width="210" src="https://skillicons.dev/icons?i=java,python,html,css,javascript" />
+    <img height="40" width="270" src="https://skillicons.dev/icons?i=django,react,selenium,bootstrap,figma,github" />
 </div>
 
 
