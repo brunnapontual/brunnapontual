@@ -2,12 +2,12 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Brunna Pontual</h1></summary>
-    <p style="display: inline-block">Software Developer,  21</p>
+    <p style="display: inline-block">Software Developer,  22</p>
 </div>
     
 * Computer Science undergraduate
 * Alepe - Aug. 2023
-* Currently learning ***Javascript, React***
+* Currently learning ***Java, TypeScript***
 
 </div>
 <div align="justify"> 
@@ -22,7 +22,7 @@
 <h2 align="center"></h2>
 <div align="inline">
     <img height="40" width="210" src="https://skillicons.dev/icons?i=java,python,html,css,javascript" />
-    <img height="40" width="270" src="https://skillicons.dev/icons?i=django,react,selenium,bootstrap,figma,github" />
+    <img height="40" width="270" src="https://skillicons.dev/icons?i=django,react,selenium,figma,github" />
 </div>
 
 
